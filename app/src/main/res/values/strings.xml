@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="titre1">SamaBlog</string>
+    <string name="ajouter_un_article">Ajouter un Article</string>
+    <string name="contenue">Contenue</string>
+    <string name="close">Close</string>
+    <string name="add_blog">Add Blog</string>
+    <string name="text_blog_value">ferme vfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenvevfkvnefveznvenve </string>
+    <string name="titre_value"> Titre</string>
+    <string name="textViewVlaue">une env accessible dpuis le net GRAFANA (Khady Mbacke): dashbord SENTRY(ouly) : gestionnaire d\'erreurs,gihubwebhocks,jira,slack ((permet d\'interagir avec les differentes technologies par envoie de notifications d\'erreurs )) Gravity (Zeynab) : trucs d\'api MongoGDB, HardHat : blockchain EleutAI</string>
+    <string name="auteur">Auteur</string>
+    <string name="titre">Titre</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="samablog1">SamaBlog</string>
+    <string name="titre_blog">Titre Blog</string>
+    <string name="ecrit_par">Ecrit par :</string>
+    <string name="modou">Modou</string>
+    <string name="_27_novembre_2002">27 Novembre 2002</string>
+    <string name="back_blog">back_blog</string>
+</resources>
